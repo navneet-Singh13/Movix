@@ -10,8 +10,8 @@ Movix is a web-based platform designed for movie enthusiasts to search, explore,
 
 ## Technologies Used
 
-- **Frontend**: React.js, CSS
-- **Backend**: Node.js (if applicable)
+- **Frontend**: React.js, CSS , Tailwind 
+- **Backend**: Node.js 
 - **API**: TheMovieDB (TMDb)
 
 ## link
