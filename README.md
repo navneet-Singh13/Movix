@@ -1,6 +1,6 @@
-# Moviemania
+# Movix
 
-Moviemania is a web-based platform designed for movie enthusiasts to search, explore, and discover movie details. The app features a clean and user-friendly interface, enabling seamless browsing of movie information.
+Movix is a web-based platform designed for movie enthusiasts to search, explore, and discover movie details. The app features a clean and user-friendly interface, enabling seamless browsing of movie information.
 
 ## Features
 
